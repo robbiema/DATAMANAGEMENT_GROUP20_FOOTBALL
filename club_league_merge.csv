@@ -1,0 +1,332 @@
+,league,club
+0,Premier League,Chelsea FC
+1,Premier League,Arsenal FC
+2,Premier League,Tottenham Hotspur
+3,Premier League,Brighton & Hove Albion
+4,Premier League,Everton FC
+5,Premier League,Liverpool FC
+6,Premier League,Southampton FC
+7,Premier League,Leeds United
+8,Premier League,Wolverhampton Wanderers
+9,Premier League,Fulham FC
+10,Premier League,Manchester United
+11,Premier League,Leicester City
+12,Premier League,West Ham United
+13,Premier League,Nottingham Forest
+14,Premier League,Newcastle United
+15,Premier League,Manchester City
+16,Premier League,Aston Villa
+17,Premier League,Crystal Palace
+18,Premier League,AFC Bournemouth
+19,Premier League,Brentford FC
+20,Championship,Sheffield United
+21,Championship,Burnley FC
+22,Championship,Huddersfield Town
+23,Championship,Norwich City
+24,Championship,Sunderland AFC
+25,Championship,West Bromwich Albion
+26,Championship,Blackpool FC
+27,Championship,Birmingham City
+28,Championship,Watford FC
+29,Championship,Luton Town
+30,Championship,Cardiff City
+31,Championship,Queens Park Rangers
+32,Championship,Rotherham United
+33,Championship,Swansea City
+34,Championship,Blackburn Rovers
+35,Championship,Preston North End
+36,Championship,Stoke City
+37,Championship,Bristol City
+38,Championship,Reading FC
+39,Championship,Hull City
+40,Championship,Coventry City
+41,Championship,Wigan Athletic
+42,Championship,Millwall FC
+43,Championship,Middlesbrough FC
+44,Eredivisie,AZ Alkmaar
+45,Eredivisie,Feyenoord Rotterdam
+46,Eredivisie,PSV Eindhoven
+47,Eredivisie,FC Utrecht
+48,Eredivisie,Twente Enschede FC
+49,Eredivisie,Vitesse Arnhem
+50,Eredivisie,FC Volendam
+51,Eredivisie,SC Cambuur Leeuwarden
+52,Eredivisie,RKC Waalwijk
+53,Eredivisie,NEC Nijmegen
+54,Eredivisie,Ajax Amsterdam
+55,Eredivisie,Go Ahead Eagles
+56,Eredivisie,Sparta Rotterdam
+57,Eredivisie,SC Heerenveen
+58,Eredivisie,Fortuna Sittard
+59,Eredivisie,Excelsior Rotterdam
+60,Eredivisie,FC Emmen
+61,Eredivisie,FC Groningen
+62,Keuken Kampioen Divisie,Ajax Amsterdam U21
+63,Keuken Kampioen Divisie,AZ Alkmaar U21
+64,Keuken Kampioen Divisie,Willem II Tilburg
+65,Keuken Kampioen Divisie,PEC Zwolle
+66,Keuken Kampioen Divisie,Heracles Almelo
+67,Keuken Kampioen Divisie,NAC Breda
+68,Keuken Kampioen Divisie,De Graafschap Doetinchem
+69,Keuken Kampioen Divisie,Almere City FC
+70,Keuken Kampioen Divisie,ADO Den Haag
+71,Keuken Kampioen Divisie,PSV Eindhoven U21
+72,Keuken Kampioen Divisie,FC Den Bosch
+73,Keuken Kampioen Divisie,VVV-Venlo
+74,Keuken Kampioen Divisie,Roda JC Kerkrade
+75,Keuken Kampioen Divisie,FC Eindhoven
+76,Keuken Kampioen Divisie,MVV Maastricht
+77,Keuken Kampioen Divisie,TOP Oss
+78,Keuken Kampioen Divisie,FC Utrecht U21
+79,Keuken Kampioen Divisie,SC Telstar
+80,Keuken Kampioen Divisie,Helmond Sport
+81,Keuken Kampioen Divisie,FC Dordrecht
+82,Liga Portugal,SL Benfica
+83,Liga Portugal,Sporting CP
+84,Liga Portugal,SC Braga
+85,Liga Portugal,GD Estoril Praia
+86,Liga Portugal,FC Vizela
+87,Liga Portugal,FC Porto
+88,Liga Portugal,Vitória Guimarães SC
+89,Liga Portugal,FC Famalicão
+90,Liga Portugal,CS Marítimo
+91,Liga Portugal,CD Santa Clara
+92,Liga Portugal,Rio Ave FC
+93,Liga Portugal,Casa Pia AC
+94,Liga Portugal,Portimonense SC
+95,Liga Portugal,Boavista FC
+96,Liga Portugal,FC Paços de Ferreira
+97,Liga Portugal,GD Chaves
+98,Liga Portugal,FC Arouca
+99,Liga Portugal,Gil Vicente FC
+100,Liga Portugal 2,B SAD
+101,Liga Portugal 2,SL Benfica B
+102,Liga Portugal 2,Moreirense FC
+103,Liga Portugal 2,SC União Torreense
+104,Liga Portugal 2,CF Estrela Amadora SAD
+105,Liga Portugal 2,CD Feirense
+106,Liga Portugal 2,SC Farense
+107,Liga Portugal 2,UD Oliveirense
+108,Liga Portugal 2,FC Porto B
+109,Liga Portugal 2,CD Trofense
+110,Liga Portugal 2,Leixões SC
+111,Liga Portugal 2,UD Vilafranquense
+112,Liga Portugal 2,FC Penafiel
+113,Liga Portugal 2,CD Mafra
+114,Liga Portugal 2,CD Tondela
+115,Liga Portugal 2,CD Nacional
+116,Liga Portugal 2,SC Covilhã
+117,Liga Portugal 2,Académico Viseu FC
+118,Ligue 1,Olympique Marseille
+119,Ligue 1,AS Monaco
+120,Ligue 1,LOSC Lille
+121,Ligue 1,Stade Rennais FC
+122,Ligue 1,Paris Saint-Germain
+123,Ligue 1,Montpellier HSC
+124,Ligue 1,Olympique Lyon
+125,Ligue 1,FC Lorient
+126,Ligue 1,AJ Auxerre
+127,Ligue 1,OGC Nice
+128,Ligue 1,RC Lens
+129,Ligue 1,RC Strasbourg Alsace
+130,Ligue 1,ESTAC Troyes
+131,Ligue 1,Angers SCO
+132,Ligue 1,FC Toulouse
+133,Ligue 1,Clermont Foot 63
+134,Ligue 1,Stade Brestois 29
+135,Ligue 1,FC Nantes
+136,Ligue 1,AC Ajaccio
+137,Ligue 1,Stade Reims
+138,Bundesliga,RB Leipzig
+139,Bundesliga,Bayer 04 Leverkusen
+140,Bundesliga,Borussia Dortmund
+141,Bundesliga,Bayern Munich
+142,Bundesliga,VfL Wolfsburg
+143,Bundesliga,SC Freiburg
+144,Bundesliga,1.FC Union Berlin
+145,Bundesliga,1.FC Köln
+146,Bundesliga,Borussia Mönchengladbach
+147,Bundesliga,Eintracht Frankfurt
+148,Bundesliga,VfB Stuttgart
+149,Bundesliga,SV Werder Bremen
+150,Bundesliga,TSG 1899 Hoffenheim
+151,Bundesliga,1.FSV Mainz 05
+152,Bundesliga,Hertha BSC
+153,Bundesliga,FC Augsburg
+154,Bundesliga,FC Schalke 04
+155,Bundesliga,VfL Bochum
+156,2. Bundesliga,Fortuna Düsseldorf
+157,2. Bundesliga,Holstein Kiel
+158,2. Bundesliga,Arminia Bielefeld
+159,2. Bundesliga,FC St. Pauli
+160,2. Bundesliga,Hamburger SV
+161,2. Bundesliga,Karlsruher SC
+162,2. Bundesliga,SV Darmstadt 98
+163,2. Bundesliga,1.FC Magdeburg
+164,2. Bundesliga,1.FC Nuremberg
+165,2. Bundesliga,SC Paderborn 07
+166,2. Bundesliga,1.FC Kaiserslautern
+167,2. Bundesliga,Eintracht Braunschweig
+168,2. Bundesliga,Hannover 96
+169,2. Bundesliga,SSV Jahn Regensburg
+170,2. Bundesliga,SV Sandhausen
+171,2. Bundesliga,1.FC Heidenheim 1846
+172,2. Bundesliga,FC Hansa Rostock
+173,2. Bundesliga,SpVgg Greuther Fürth
+174,Serie A,Atalanta BC
+175,Serie A,SSC Napoli
+176,Serie A,AC Milan
+177,Serie A,AS Roma
+178,Serie A,ACF Fiorentina
+179,Serie A,Juventus FC
+180,Serie A,FC Empoli
+181,Serie A,AC Monza
+182,Serie A,Hellas Verona
+183,Serie A,Udinese Calcio
+184,Serie A,Torino FC
+185,Serie A,Inter Milan
+186,Serie A,US Sassuolo
+187,Serie A,US Salernitana 1919
+188,Serie A,SS Lazio
+189,Serie A,Bologna FC 1909
+190,Serie A,UC Sampdoria
+191,Serie A,US Cremonese
+192,Serie A,Spezia Calcio
+193,Serie A,US Lecce
+194,Serie B,Genoa CFC
+195,Serie B,Parma Calcio 1913
+196,Serie B,Brescia Calcio
+197,Serie B,Venezia FC
+198,Serie B,Como 1907
+199,Serie B,Ternana Calcio
+200,Serie B,Cosenza Calcio
+201,Serie B,Ascoli Calcio
+202,Serie B,Reggina 1914
+203,Serie B,Cagliari Calcio
+204,Serie B,SPAL
+205,Serie B,Pisa Sporting Club
+206,Serie B,Frosinone Calcio
+207,Serie B,SSC Bari
+208,Serie B,Palermo FC
+209,Serie B,Benevento Calcio
+210,Serie B,FC Südtirol
+211,Serie B,AC Perugia Calcio
+212,Serie B,Modena FC
+213,Serie B,AS Cittadella
+214,LaLiga,Girona FC
+215,LaLiga,Sevilla FC
+216,LaLiga,Valencia CF
+217,LaLiga,UD Almería
+218,LaLiga,FC Barcelona
+219,LaLiga,Real Valladolid CF
+220,LaLiga,Real Betis Balompié
+221,LaLiga,Villarreal CF
+222,LaLiga,Atlético de Madrid
+223,LaLiga,Real Madrid
+224,LaLiga,Real Sociedad
+225,LaLiga,Cádiz CF
+226,LaLiga,CA Osasuna
+227,LaLiga,Rayo Vallecano
+228,LaLiga,Athletic Bilbao
+229,LaLiga,RCD Espanyol Barcelona
+230,LaLiga,Elche CF
+231,LaLiga,RCD Mallorca
+232,LaLiga,Celta de Vigo
+233,LaLiga,Getafe CF
+234,LaLiga2,Villarreal CF B
+235,LaLiga2,UD Las Palmas
+236,LaLiga2,Málaga CF
+237,LaLiga2,Deportivo Alavés
+238,LaLiga2,Albacete Balompié
+239,LaLiga2,Sporting Gijón
+240,LaLiga2,Real Oviedo
+241,LaLiga2,Levante UD
+242,LaLiga2,SD Huesca
+243,LaLiga2,FC Cartagena
+244,LaLiga2,UD Ibiza
+245,LaLiga2,Racing Santander
+246,LaLiga2,Granada CF
+247,LaLiga2,Real Zaragoza
+248,LaLiga2,CD Tenerife
+249,LaLiga2,CD Leganés
+250,LaLiga2,FC Andorra
+251,LaLiga2,CD Mirandés
+252,LaLiga2,SD Eibar
+253,LaLiga2,SD Ponferradina
+254,LaLiga2,CD Lugo
+255,LaLiga2,Burgos CF
+256,Major League Soccer,Columbus Crew
+257,Major League Soccer,Portland Timbers
+258,Major League Soccer,New England Revolution
+259,Major League Soccer,D.C. United
+260,Major League Soccer,Seattle Sounders FC
+261,Major League Soccer,Atlanta United FC
+262,Major League Soccer,Inter Miami CF
+263,Major League Soccer,St. Louis CITY SC
+264,Major League Soccer,Los Angeles Galaxy
+265,Major League Soccer,Colorado Rapids
+266,Major League Soccer,Toronto FC
+267,Major League Soccer,Chicago Fire FC
+268,Major League Soccer,Vancouver Whitecaps FC
+269,Major League Soccer,Real Salt Lake City
+270,Major League Soccer,FC Dallas
+271,Major League Soccer,FC Cincinnati
+272,Major League Soccer,Los Angeles FC
+273,Major League Soccer,Nashville SC
+274,Major League Soccer,Austin FC
+275,Major League Soccer,Charlotte FC
+276,Major League Soccer,New York Red Bulls
+277,Major League Soccer,Sporting Kansas City
+278,Major League Soccer,New York City FC
+279,Major League Soccer,Minnesota United FC
+280,Major League Soccer,San Jose Earthquakes
+281,Chinese Super League,Wuhan Three Towns
+282,Chinese Super League,Beijing Guoan
+283,Chinese Super League,Shenzhen FC
+284,Chinese Super League,Shanghai Port
+285,Chinese Super League,Chengdu Rongcheng
+286,Chinese Super League,Shandong Taishan
+287,Chinese Super League,Shanghai Shenhua
+288,Chinese Super League,Changchun Yatai
+289,Chinese Super League,Meizhou Hakka
+290,Chinese Super League,Dalian Professional
+291,Chinese Super League,Cangzhou Mighty Lions
+292,Chinese Super League,Tianjin Jinmen Tiger
+293,Chinese Super League,Qingdao Hainiu
+294,Chinese Super League,Henan FC
+295,Chinese Super League,Zhejiang FC
+296,Chinese Super League,Nantong Zhiyun
+297,J1 League,Hokkaido Consadole Sapporo
+298,J1 League,Urawa Red Diamonds
+299,J1 League,Yokohama F. Marinos
+300,J1 League,Kashima Antlers
+301,J1 League,Kawasaki Frontale
+302,J1 League,Vissel Kobe
+303,J1 League,FC Tokyo
+304,J1 League,Shonan Bellmare
+305,J1 League,Sanfrecce Hiroshima
+306,J1 League,Avispa Fukuoka
+307,J1 League,Sagan Tosu
+308,J1 League,Kyoto Sanga
+309,J1 League,Cerezo Osaka
+310,J1 League,Nagoya Grampus
+311,J1 League,Gamba Osaka
+312,J1 League,Yokohama FC
+313,J1 League,Albirex Niigata
+314,J1 League,Kashiwa Reysol
+315,Saudi Pro League,Al-Hilal Saudi FC
+316,Saudi Pro League,Al-Wehda FC
+317,Saudi Pro League,Al-Nassr FC
+318,Saudi Pro League,Damac FC
+319,Saudi Pro League,Al-Adalah FC
+320,Saudi Pro League,Al-Ittihad Club (Jeddah)
+321,Saudi Pro League,Al-Shabab Club (Riyadh)
+322,Saudi Pro League,Al-Fateh SC
+323,Saudi Pro League,Al-Taawoun FC
+324,Saudi Pro League,Abha Club
+325,Saudi Pro League,Ettifaq FC
+326,Saudi Pro League,Al-Tai
+327,Saudi Pro League,Al-Fayha FC
+328,Saudi Pro League,Al-Khaleej
+329,Saudi Pro League,Al-Raed SFC
+330,Saudi Pro League,Al-Batin FC
